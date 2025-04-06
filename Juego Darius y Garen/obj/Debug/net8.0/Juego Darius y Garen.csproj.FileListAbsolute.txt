@@ -1,0 +1,15 @@
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\bin\Debug\net8.0\Juego Darius y Garen.exe
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\bin\Debug\net8.0\Juego Darius y Garen.deps.json
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\bin\Debug\net8.0\Juego Darius y Garen.runtimeconfig.json
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\bin\Debug\net8.0\Juego Darius y Garen.dll
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\bin\Debug\net8.0\Juego Darius y Garen.pdb
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\Juego Darius y Garen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\Juego Darius y Garen.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\Juego Darius y Garen.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\Juego Darius y Garen.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\Juego Darius y Garen.sourcelink.json
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\Juego Darius y Garen.dll
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\refint\Juego Darius y Garen.dll
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\Juego Darius y Garen.pdb
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\Juego Darius y Garen.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\Escritorio\Juego de OOI\Juego Darius y Garen\obj\Debug\net8.0\ref\Juego Darius y Garen.dll
