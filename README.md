@@ -34,3 +34,11 @@ El juego presenta dos tipos de personajes principales: **Bárbaros** y **Sacerdo
 
    ```bash
    dotnet run --project "Juego Darius y Garen/Juego Darius y Garen.csproj"
+
+
+
+## Preguntas
+1. En el codigo muestreme donde hay "Sobreescritura"
+
+## Añadir
+1. 
